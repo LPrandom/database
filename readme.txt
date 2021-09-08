@@ -1,0 +1,1 @@
+Simple storing system for discord bots, there no sensitive stuff here, don't try to skid it LOL.
