@@ -48,5 +48,10 @@
 		"name": "surprise sex while making dinner",
 		"link": "https://www.pornhub.com/view_video.php?viewkey=ph5c886c6119643",
 		"preview": "https://cdn.discordapp.com/attachments/884979158516637696/885004751320805437/image0.jpg"
+	},
+	{
+		"name": "I Fucked a Fan in the Bathroom of a Club",
+		"link": "https://www.pornhub.com/view_video.php?viewkey=ph5daf330e09ac3",
+		"preview": "https://cdn.discordapp.com/attachments/884979158516637696/886094095502680064/image0.png"
 	}
 }
