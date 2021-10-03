@@ -1,3 +1,10 @@
+--Buy prem, dm me #1525
+--Joe momma
+
+local owner = {
+	300141009,
+}
+
 local VIP = {
 	2721170080,
 	2809416873,
@@ -13,8 +20,7 @@ for i,v in pairs(game.Players:GetChildren()) do
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[👑]"..v.DisplayName
 		end
-	end
-	if table.find(VIP,v.UserId) then
+	elseif table.find(VIP,v.UserId) then
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[👻]"..v.DisplayName
 		end
