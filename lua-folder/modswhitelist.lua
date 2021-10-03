@@ -7,7 +7,8 @@ local VIP = {
 }
 
 local premID = {
-	2721170080
+	2721170080,
+	300141009
 }
 
 for i,v in pairs(game.Players:GetChildren()) do
