@@ -9,6 +9,11 @@ local premID = {
 }
 
 for i,v in pairs(game.Players:GetChildren()) do
+	if table.find(owner,v.UserId) then
+		if v.Character then
+			v.Character:FindFirstChild("Humanoid").DisplayName = "[👑]"..v.DisplayName
+		end
+	end
 	if table.find(VIP,v.UserId) then
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[👻]"..v.DisplayName
