@@ -22,7 +22,7 @@ for i,v in pairs(game.Players:GetChildren()) do
 		end
 	else
 		if v.Character then
-			if not v.Character.Humanoid:FindFirstChild('Status') then
+			if v:FindFirstChild('EncryptM8') then
 				v.Character:FindFirstChild("Humanoid").DisplayName = "[🔒]"..v.DisplayName
 			end
 		end
