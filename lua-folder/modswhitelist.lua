@@ -5,6 +5,10 @@ local owner = {
 	300141009,
 }
 
+local danny = {
+	63448449,
+}
+
 local premID = {
 	2721170080,
 	2809416873,
@@ -16,6 +20,10 @@ for i,v in pairs(game.Players:GetChildren()) do
 	if table.find(owner,v.UserId) then
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[👑]"..v.DisplayName
+		end
+	elseif table.find(danny,v.UserId) then
+		if v.Character then
+			v.Character:FindFirstChild("Humanoid").DisplayName = "[🔱]"..v.DisplayName
 		end
 	elseif table.find(premID,v.UserId) then
 		if v.Character then
