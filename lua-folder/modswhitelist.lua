@@ -1,4 +1,4 @@
---Buy prem, dm me #1525
+--Buy prem, dm me Homolife#1525 on discord
 --Joe momma
 
 local owner = {
@@ -16,6 +16,8 @@ local premID = {
 	814338063,
 	124430778, -- dannys friend
 	197434543, -- dannys friend
+	814338063, -- Homo's friend
+	270004839, -- Homo's friend
 }
 
 for i,v in pairs(game.Players:GetChildren()) do
