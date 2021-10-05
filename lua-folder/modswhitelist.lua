@@ -8,6 +8,7 @@ local owner = {
 
 local danny = {
 	63448449,
+	920389780,
 }
 
 local dahacker6000 = {
@@ -19,7 +20,6 @@ local premID = {
 	2721170080,
 	2809416873,
 	2775575663,
-	814338063,
 	814338063, -- Homo's friend
 	270004839, -- Homo's friend
 	1535126103,
