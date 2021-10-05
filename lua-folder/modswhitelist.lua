@@ -25,9 +25,9 @@ local premID = {
 	1535126103,
 	2867865880,
 	1748133409, -- Danny's friend
-	124430778, -- Danny's friend
-	
+	124430778, -- Danny's friend	
 }
+
 ----------------------------------!!!!DON'T TOUCH THIS AREA BELOW!!!!------------------------------
 
 for i,v in pairs(game.Players:GetChildren()) do
