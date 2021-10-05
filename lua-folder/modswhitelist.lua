@@ -9,7 +9,6 @@ local owner = {
 local danny = {
 	63448449,
 	920389780,
-	2809411113, -- Test
 }
 
 local dahacker6000 = {
