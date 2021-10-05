@@ -36,7 +36,7 @@ for i,v in pairs(game.Players:GetChildren()) do
 		end
 	elseif table.find(danny,v.UserId) then
 		if v.Character then
-			v.Character:FindFirstChild("Humanoid").DisplayName = "[🔱]"..v.DisplayName
+			v.Character:FindFirstChild("Humanoid").DisplayName = "[🎖️]"..v.DisplayName
 		end
 	elseif table.find(dahacker6000,v.UserId) then
 		if v.Character then
