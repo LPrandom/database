@@ -32,6 +32,14 @@ local premID = {
 	124430778, -- Danny's friend	
 }
 
+-- Custom Emojis (MORE COMING TMR)
+
+local peaches = {}
+
+local devil = {}
+
+local starlegend = {}
+
 ----------------------------------!!!!DON'T TOUCH THIS AREA BELOW!!!!------------------------------
 
 for i,v in pairs(game.Players:GetChildren()) do
@@ -46,6 +54,18 @@ for i,v in pairs(game.Players:GetChildren()) do
 	elseif table.find(dahacker6000,v.UserId) then
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[🍆]"..v.DisplayName
+		end
+	elseif table.find(peaches,v.UserId) then
+		if v.Character then
+			v.Character:FindFirstChild("Humanoid").DisplayName = "[🍑]"..v.DisplayName
+		end
+	elseif table.find(starlegend,v.UserId) then
+		if v.Character then
+			v.Character:FindFirstChild("Humanoid").DisplayName = "[🌟]"..v.DisplayName
+		end
+	elseif table.find(devil,v.UserId) then
+		if v.Character then
+			v.Character:FindFirstChild("Humanoid").DisplayName = "[😈]"..v.DisplayName
 		end
 	elseif table.find(premID,v.UserId) then
 		if v.Character then
