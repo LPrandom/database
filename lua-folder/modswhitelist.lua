@@ -11,6 +11,7 @@ local danny = {
 
 local dahacker6000 = {
 	1535126103,
+	2867865880,
 }
 
 local premID = {
@@ -24,7 +25,9 @@ local premID = {
 	270004839, -- Homo's friend
 	1008303948,
 	1535126103,
+	2867865880,
 }
+----------------------------------!!!!DON'T TOUCH THIS AREA BELOW!!!!------------------------------
 
 for i,v in pairs(game.Players:GetChildren()) do
 	if table.find(owner,v.UserId) then
