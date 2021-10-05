@@ -19,7 +19,6 @@ local premID = {
 	814338063, -- Homo's friend
 	270004839, -- Homo's friend
 	1008303948,
-	920389780,
 }
 
 for i,v in pairs(game.Players:GetChildren()) do
