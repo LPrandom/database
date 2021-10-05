@@ -20,11 +20,12 @@ local dahacker6000 = {
 local premID = {
 	2721170080,
 	2809416873,
-	--2775575663,
+	2775575663,
 	814338063, -- Homo's friend
 	270004839, -- Homo's friend
 	1535126103,
 	2867865880,
+	2311163271,
 	1748133409, -- Danny's friend
 	124430778, -- Danny's friend	
 }
