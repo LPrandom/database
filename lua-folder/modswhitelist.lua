@@ -3,6 +3,7 @@
 
 local owner = {
 	300141009,
+	1008303948,
 }
 
 local danny = {
@@ -19,11 +20,8 @@ local premID = {
 	2809416873,
 	2775575663,
 	814338063,
-	124430778, -- dannys friend
-	197434543, -- dannys friend
 	814338063, -- Homo's friend
 	270004839, -- Homo's friend
-	1008303948,
 	1535126103,
 	2867865880,
 }
