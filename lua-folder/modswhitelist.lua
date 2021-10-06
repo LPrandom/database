@@ -3,7 +3,6 @@
 
 local owner = {
 	300141009,
-	1008303948,
 }
 
 local danny = {
@@ -44,7 +43,9 @@ local premID = {
 
 local peaches = {}
 
-local devil = {}
+local devil = {
+	1008303948,
+}
 
 local starlegend = {}
 
