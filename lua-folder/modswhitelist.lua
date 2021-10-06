@@ -50,6 +50,10 @@ local lightning = {}
 
 local threeheartsofdeath = {}
 
+local purpleheart = {
+	161848036,
+}
+
 ----------------------------------!!!!DON'T TOUCH THIS AREA BELOW!!!!------------------------------
 
 for i,v in pairs(game.Players:GetChildren()) do
@@ -80,6 +84,10 @@ for i,v in pairs(game.Players:GetChildren()) do
 	elseif table.find(lightning,v.UserId) then
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[⚡️]"..v.DisplayName
+		end
+	elseif table.find(purpleheart,v.UserId) then
+		if v.Character then
+			v.Character:FindFirstChild("Humanoid").DisplayName = "[💜]"..v.DisplayName
 		end
 	elseif table.find(threeheartsofdeath,v.UserId) then
 		if v.Character then
