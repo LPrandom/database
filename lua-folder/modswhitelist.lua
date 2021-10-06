@@ -35,6 +35,7 @@ local premID = {
 	161848036,
 	1748133409, -- Danny's friend
 	124430778, -- Danny's friend	
+	1493124925,
 }
 
 -- Custom Emojis (MORE COMING TMR)
