@@ -43,6 +43,7 @@ local premID = {
 	2572158791,
 	2822676283,
 	2703098386,
+	1799914154,
 }
 
 -- Custom Emojis (MORE COMING TMR)
@@ -57,7 +58,9 @@ local starlegend = {
 	2752442858,
 }
 
-local lightning = {}
+local lightning = {
+	1799914154,
+}
 
 local threeheartsofdeath = {}
 
