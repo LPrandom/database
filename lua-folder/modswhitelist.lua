@@ -53,7 +53,9 @@ local devil = {
 	1008303948,
 }
 
-local starlegend = {}
+local starlegend = {
+	2752442858,
+}
 
 local lightning = {}
 
