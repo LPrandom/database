@@ -27,6 +27,7 @@ local premID = {
 	468595097,
 	1081755290,
 	366494566,
+	161848036,
 	314061407,
 	798383307,
 	398834282,
@@ -59,7 +60,9 @@ local lightning = {}
 
 local threeheartsofdeath = {}
 
-local purpleheart = {}
+local purpleheart = {
+	161848036,
+}
 
 local ailen = {
 	314061407,
