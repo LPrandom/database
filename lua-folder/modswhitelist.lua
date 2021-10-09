@@ -14,7 +14,7 @@ local dahacker6000 = {
 	2867865880,
 	1535126103,
 }
---2721170080
+
 local premID = {
 	2809416873,
 	2775575663,
@@ -49,6 +49,7 @@ local premID = {
 	2703098386,
 	1799914154,
 	1104391928,
+	2721170080,
 }
 
 -- Custom Emojis (MORE COMING TMR)
@@ -65,6 +66,7 @@ local starlegend = {
 
 local lightning = {
 	1799914154,
+	2721170080,
 }
 
 local threeheartsofdeath = {}
