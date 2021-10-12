@@ -86,6 +86,10 @@ local premID = {
 
 -- Custom Emojis (MORE COMING TMR)
 
+local shitter = {
+	292583175,
+}
+
 local peaches = {
 	1809331394,
 }
@@ -129,6 +133,10 @@ for i,v in pairs(game.Players:GetChildren()) do
 	elseif table.find(peaches,v.UserId) then
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[🍑]"..v.DisplayName
+		end
+	elseif table.find(shitter,v.UserId) then
+		if v.Character then
+			v.Character:FindFirstChild("Humanoid").DisplayName = "[💩]"..v.DisplayName
 		end
 	elseif table.find(starlegend,v.UserId) then
 		if v.Character then
