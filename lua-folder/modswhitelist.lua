@@ -84,7 +84,9 @@ local premID = {
 
 -- Custom Emojis (MORE COMING TMR)
 
-local peaches = {}
+local peaches = {
+	1809331394,
+}
 
 local devil = {
 	1008303948,
