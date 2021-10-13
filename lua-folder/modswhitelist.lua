@@ -109,6 +109,7 @@ local lightning = {
 
 local purpleheart = {
 	161848036,
+	2019477904,
 }
 
 local ailen = {
