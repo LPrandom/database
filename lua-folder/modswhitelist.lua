@@ -1,5 +1,6 @@
 --Buy prem, dm me Homolife#1525 on discord
 --Joe momma
+--If you find this and tell ur fellow friends that you "leaked" this data base, idgaf, its just prem dummeh ;) love u </3
 
 local owner = {
 	300141009,
@@ -87,6 +88,7 @@ local premID = {
 	9695637,
 	383509376,
 	1043304640,
+	2808626469,
 }
 
 -- Custom Emojis (MORE COMING TMR)
