@@ -1,5 +1,5 @@
---Buy prem, dm me Homolife#1525 on discord
---Joe momma
+--Homolife#1525 was here
+--discord.gg/encrypt ez
 --If you find this and tell ur fellow friends that you "leaked" this data base, idgaf, its just prem dummeh ;) love u </3
 
 local owner = {
