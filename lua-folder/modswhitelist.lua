@@ -18,6 +18,7 @@ local dahacker6000 = {
 
 local VIP = {
 	2019477904,
+	2799603354,
 }
 
 local premID = {
