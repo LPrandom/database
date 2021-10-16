@@ -18,6 +18,7 @@ local dahacker6000 = {
 
 local VIP = {
 	2799603354,
+	273055042,
 }
 
 local premID = {
@@ -110,7 +111,7 @@ local premID = {
 	2329077583,
 	893514561,
 	1343233108,
-	273055042,
+	--273055042,
 }
 
 -- Custom Emojis (MORE COMING TMR)
