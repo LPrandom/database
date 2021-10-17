@@ -28,6 +28,7 @@ local VIP = {
 local serverbooster = {
 	1523673143,
 	246365784,
+	2293242440,
 }
 
 local premID = {
@@ -143,6 +144,7 @@ local premID = {
 	2658435634,
 	1523673143, -- server booster, cord: hatetae#9999
 	246365784, -- server booster, cord: tay#0005
+	2293242440, -- server booster, cord: Alice..😩#4159
 }
 
 -- Custom Emojis (MORE COMING TMR)
