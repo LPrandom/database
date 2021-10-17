@@ -25,7 +25,9 @@ local VIP = {
 	2809411113, -- test
 }
 
-local serverbooster = {}
+local serverbooster = {
+	1523673143,
+}
 
 local premID = {
 	2809416873,
@@ -138,6 +140,7 @@ local premID = {
 	2742509109,
 	2540767950,
 	2658435634,
+	1523673143, -- server booster, cord: hatetae#9999
 }
 
 -- Custom Emojis (MORE COMING TMR)
