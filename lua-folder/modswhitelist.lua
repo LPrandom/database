@@ -1,5 +1,6 @@
 --Homolife#1525 was here
 --discord.gg/encrypt
+--pretty nice script no kizzy
 --If you find this and tell ur fellow friends that you "leaked" this data base, idgaf, its just prem dummeh ;) love u </3
 
 local owner = {
