@@ -25,6 +25,8 @@ local VIP = {
 	2809411113, -- test
 }
 
+local serverbooster = {}
+
 local premID = {
 	2809416873,
 	1912376666,
@@ -217,6 +219,10 @@ for i,v in pairs(game.Players:GetChildren()) do
 	elseif table.find(purpleheart,v.UserId) then
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[💜]"..v.DisplayName
+		end
+	elseif table.find(serverbooster,v.UserId) then
+		if v.Character then
+			v.Character:FindFirstChild("Humanoid").DisplayName = "[🚀]"..v.DisplayName
 		end
 	elseif table.find(premID,v.UserId) then
 		if v.Character then
