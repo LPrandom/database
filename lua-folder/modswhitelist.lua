@@ -31,6 +31,7 @@ local serverbooster = {
 	2293242440,
 	1626752226,
 	920183527,
+	2549491930,
 }
 
 local premID = {
@@ -150,6 +151,7 @@ local premID = {
 	2293242440, -- server booster, cord: Alice..😩#4159
 	1626752226, --server booster, cord: Iee#8888
 	920183527, --server booster, cord: Jixlez#1400
+	2549491930, --server booster, cord: Lunor’s Beaner#6666
 }
 
 -- Custom Emojis (MORE COMING TMR)
