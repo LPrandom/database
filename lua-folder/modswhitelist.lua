@@ -22,6 +22,7 @@ local VIP = {
 	273055042,
 	833678432,
 	1843870389,
+	2019477904,
 	2809411113, -- test
 }
 
@@ -181,7 +182,6 @@ local lightning = {
 
 local purpleheart = {
 	161848036,
-	2019477904,
 }
 
 local ailen = {
