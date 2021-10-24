@@ -5,6 +5,7 @@
 
 local owner = {
 	300141009,
+	414080538,
 }
 
 local danny = {
