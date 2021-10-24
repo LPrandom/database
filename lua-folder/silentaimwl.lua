@@ -30,5 +30,6 @@ local userIDss = {
     2572158791,
     414080538,
     63448449,
+    706522457,
 }
 return userIDss
