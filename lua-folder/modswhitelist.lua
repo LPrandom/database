@@ -163,6 +163,7 @@ local premID = {
 	1261675505,
 	2621377571,
 	126710105,
+	759510875,
 	140138746,
 	1523673143, -- server booster, cord: hatetae#9999
 	246365784, -- server booster, cord: tay#0005
