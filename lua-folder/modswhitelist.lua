@@ -181,8 +181,8 @@ local premID = {
 	2244040050,
 	928280838,
 	2284698432,
+	469438904,
 	1523673143, -- server booster, cord: hatetae#9999
-	246365784, -- server booster, cord: tay#0005
 	1626752226, --server booster, cord: Iee#8888
 	920183527, --server booster, cord: Jixlez#1400
 	2549491930, --server booster, cord: Lunor’s Beaner#6666
