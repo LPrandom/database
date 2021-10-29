@@ -30,7 +30,6 @@ local VIP = {
 }
 
 local serverbooster = {
-	1523673143,
 	1383914810,
 	246365784,
 	1626752226,
@@ -182,7 +181,6 @@ local premID = {
 	928280838,
 	2284698432,
 	469438904,
-	1523673143, -- server booster, cord: hatetae#9999
 	1626752226, --server booster, cord: Iee#8888
 	920183527, --server booster, cord: Jixlez#1400
 	2549491930, --server booster, cord: Lunor’s Beaner#6666
