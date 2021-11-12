@@ -217,6 +217,7 @@ local premID = {
 	2549491930, --server booster, cord: Lunor’s Beaner#6666
 	1383914810, --server booster, cord: west'#7777
 	2873188959,
+	1581839176,
 }
 
 -- Custom Emojis (MORE COMING TMR)
