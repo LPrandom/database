@@ -3,17 +3,11 @@
 --pretty nice script no kizzy
 --If you find this and tell ur fellow friends that you "leaked" this data base, idgaf, its just prem dummeh ;) love u </3
 
-local owner = {
+local adminsez = {
 	300141009,
 	414080538,
-}
-
-local danny = {
 	63448449,
 	920389780,
-}
-
-local dahacker6000 = {
 	2867865880,
 	1535126103,
 }
@@ -262,17 +256,9 @@ local ailen = {
 ----------------------------------!!!!DON'T TOUCH THIS AREA BELOW!!!!------------------------------
 
 for i,v in pairs(game.Players:GetChildren()) do
-	if table.find(owner,v.UserId) then
+	if table.find(adminsez,v.UserId) then
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[👑]"..v.DisplayName
-		end
-	elseif table.find(danny,v.UserId) then
-		if v.Character then
-			v.Character:FindFirstChild("Humanoid").DisplayName = "[🎖️]"..v.DisplayName
-		end
-	elseif table.find(dahacker6000,v.UserId) then
-		if v.Character then
-			v.Character:FindFirstChild("Humanoid").DisplayName = "[🍆]"..v.DisplayName
 		end
 	elseif table.find(VIP,v.UserId) then
 		if v.Character then
