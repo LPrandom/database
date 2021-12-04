@@ -29,6 +29,7 @@ for i,v in pairs(game.Players:GetChildren()) do
 	if table.find(vipIDs,v.UserId) then
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[💎]"..v.DisplayName
+		end
 	else
 		if v.Character then
 			if not v.Character.UpperTorso:FindFirstChild("BodyBackAttachment") then
