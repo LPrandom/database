@@ -22,7 +22,7 @@ local vipIDs = {
 	171832854,
 	2747858499,
 	3064116530,
-  2859785451,
+  	2859785451,
 }
 
 for i,v in pairs(game.Players:GetChildren()) do
