@@ -40,5 +40,5 @@ local function main()
 		end
 	end
 end
-pcall(main)
+local success,err = pcall(main)
 return vipIDs
