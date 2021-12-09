@@ -1,1 +1,1 @@
-Simple storing system for discord bots, there no sensitive stuff here, don't try to skid it LOL.
+data base for shit skidding clowns lerking in my github lmao 🤡
