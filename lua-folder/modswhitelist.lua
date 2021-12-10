@@ -16,11 +16,7 @@ local adminsez = {
 }
 
 local serverbooster = {
-	1383914810,
-	246365784,
 	1626752226,
-	920183527,
-	2549491930,
 }
 
 local moderators = {
@@ -212,7 +208,6 @@ local premID = {
 	461933746,
 	885248781,
 	1626752226, --server booster, cord: Iee#8888
-	2549491930, --server booster, cord: Lunor’s Beaner#6666
 	2873188959,
 	1662483095,
 	2466090654,
