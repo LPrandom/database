@@ -23,6 +23,14 @@ local serverbooster = {
 	2549491930,
 }
 
+local moderators = {
+	833678432,
+	1687018961,
+	2043060303,
+	2868887938,
+	273055042,
+}
+
 local premID = {
 	2809416873,
 	2231724017,
@@ -250,6 +258,10 @@ for i,v in pairs(game.Players:GetChildren()) do
 	if table.find(adminsez,v.UserId) then
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[👑]"..v.DisplayName
+		end
+	elseif table.find(moderators,v.UserId) then
+		if v.Character then
+			v.Character:FindFirstChild("Humanoid").DisplayName = "[❤️]"..v.DisplayName
 		end
 	elseif table.find(peaches,v.UserId) then
 		if v.Character then
