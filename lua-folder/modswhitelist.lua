@@ -13,7 +13,6 @@ local adminsez = {
 	1535126103,
 	116679586,
 	270004839,
-	859414356, -- 3 day trial, remove at 30 nov
 }
 
 local serverbooster = {
