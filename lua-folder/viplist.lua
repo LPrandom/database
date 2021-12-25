@@ -31,6 +31,7 @@ local vipIDs = {
 	2747858499,
 	3064116530,
   	2859785451,
+	3060730146, -- test alt
 }
 
 local function main()
