@@ -323,7 +323,7 @@ for i,v in pairs(game.Players:GetChildren()) do
 		end
 	else
 		if v.Character then
-			if not v.Character.UpperTorso:FindFirstChild("BodyBackAttachment") then
+			if not v.Character.LowerTorso:FindFirstChild("OriginalSize") then
 				v.Character:FindFirstChild("Humanoid").DisplayName = "[🔒]"..v.DisplayName
 			end
 		end
