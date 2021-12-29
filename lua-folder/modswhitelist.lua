@@ -270,6 +270,7 @@ local peaches = {
 
 local devil = {
 	1008303948,
+	3000740538,
 }
 
 local starlegend = {
