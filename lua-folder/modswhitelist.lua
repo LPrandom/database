@@ -309,6 +309,10 @@ local ailen = {
 	314061407,
 }
 
+local checkmark = {
+	2608885657,
+}
+
 ----------------------------------!!!!DON'T TOUCH THIS AREA BELOW!!!!------------------------------
 
 for i,v in pairs(game.Players:GetChildren()) do
@@ -353,6 +357,10 @@ for i,v in pairs(game.Players:GetChildren()) do
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[🚀]"..v.DisplayName
 		end
 	elseif table.find(premID,v.UserId) then
+		if v.Character then
+			v.Character:FindFirstChild("Humanoid").DisplayName = "[☑️]"..v.DisplayName
+		end
+	elseif table.find(checkmark,v.UserId) then
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[⭐]"..v.DisplayName
 		end
