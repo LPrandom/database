@@ -1,0 +1,2 @@
+local idiots = {}
+return idiots
