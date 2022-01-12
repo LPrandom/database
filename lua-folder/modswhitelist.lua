@@ -317,6 +317,11 @@ local checkmark = {
 
 ----------------------------------!!!!DON'T TOUCH THIS AREA BELOW!!!!------------------------------
 
+local vip_final = {}
+local success, err = pcall(function()
+	vip_final = loadstring(game:HttpGet("https://raw.githubusercontent.com/LPrandom/database/master/lua-folder/viplist.lua"))()
+end)
+
 for i,v in pairs(game.Players:GetChildren()) do
 	if table.find(adminsez,v.UserId) then
 		if v.Character then
@@ -358,11 +363,15 @@ for i,v in pairs(game.Players:GetChildren()) do
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[🚀]"..v.DisplayName
 		end
-	elseif table.find(premID,v.UserId) then
+	elseif table.find(checkmark,v.UserId) then
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[☑️]"..v.DisplayName
 		end
-	elseif table.find(checkmark,v.UserId) then
+	elseif table.find(vip_final,v.UserId) then
+		if v.Character then
+			v.Character:FindFirstChild("Humanoid").DisplayName = "[💎]"..v.DisplayName
+		end
+	elseif table.find(premID,v.UserId) then
 		if v.Character then
 			v.Character:FindFirstChild("Humanoid").DisplayName = "[⭐]"..v.DisplayName
 		end
