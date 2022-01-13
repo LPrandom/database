@@ -274,6 +274,7 @@ local premID = {
 	200767890,
 	1644056149,
 	3072788448,
+	3089996348,
 	3060745103, --test
 }
 
@@ -304,17 +305,13 @@ local lightning = {
 	2721170080,
 }
 
-local purpleheart = {
-	161848036,
-}
+local purpleheart = {161848036}
 
-local ailen = {
-	314061407,
-}
+local ailen = {314061407}
 
-local checkmark = {
-	2608885657,
-}
+local checkmark = {2608885657}
+
+local pumpkin = {3089996348}
 
 ----------------------------------!!!!DON'T TOUCH THIS AREA BELOW!!!!------------------------------
 
@@ -367,6 +364,10 @@ local function main()
 		elseif table.find(checkmark,v.UserId) then
 			if v.Character then
 				v.Character:FindFirstChild("Humanoid").DisplayName = "[☑️]"..v.DisplayName
+			end
+		elseif table.find(pumpkin,v.UserId) then
+			if v.Character then
+				v.Character:FindFirstChild("Humanoid").DisplayName = "[🎃]"..v.DisplayName
 			end
 		elseif table.find(premID,v.UserId) then
 			if v.Character then
