@@ -17,6 +17,7 @@ local adminsez = {
 
 local serverbooster = {
 	1626752226,
+	73506753,
 }
 
 local moderators = {
@@ -50,6 +51,7 @@ local premID = {
 	2898704774,
 	2734876687,
 	480945208,
+	73506753, -- CHRIS !#9999 boosyer
 	2731767275,
 	1138295210,
 	329714653,
