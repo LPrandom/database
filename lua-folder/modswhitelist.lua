@@ -291,6 +291,7 @@ local premID = {
 	3089996348,
 	3060745103, --test
 	1345557221,
+	3060735945, -- test lol
 }
 
 -- Custom Emojis (MORE COMING TMR)
