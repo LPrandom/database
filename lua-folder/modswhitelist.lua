@@ -295,6 +295,7 @@ local premID = {
 	3089996348,
 	1345557221,
 	846931925,
+	3084028323,
 }
 
 -- Custom Emojis (MORE COMING TMR)
@@ -326,7 +327,10 @@ local lightning = {
 
 local purpleheart = {161848036}
 
-local ailen = {314061407}
+local ailen = {
+	314061407,
+	3084028323,
+}
 
 local checkmark = {2608885657}
 
