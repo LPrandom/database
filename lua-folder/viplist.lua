@@ -36,6 +36,7 @@ local vipIDs = {
 	60935213,
 	2015287878,
 	2591676365,
+	79287609,
 }
 
 local function main()
