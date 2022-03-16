@@ -38,6 +38,7 @@ local userIDssssssss = {
 	2782372293, -- tester
 	2839596648,
 	448880972,
+	499847217,
 }
 
 return userIDssssssss
