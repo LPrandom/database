@@ -18,6 +18,7 @@ local adminsez = {
 local serverbooster = {
 	1626752226,
 	73506753,
+	3234663393,
 }
 
 local moderators = {
@@ -26,6 +27,7 @@ local moderators = {
 	2043060303,
 	2868887938,
 	273055042,
+	3234663393,
 }
 
 local premID = {
