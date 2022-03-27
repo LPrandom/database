@@ -27,7 +27,6 @@ local moderators = {
 	2043060303,
 	2868887938,
 	273055042,
-	3234663393,
 }
 
 local premID = {
@@ -392,6 +391,7 @@ local premID = {
 	243818031,
 	3321405676,
 	3240944059,
+	3234663393,
 }
 
 -- Custom Emojis (MORE COMING TMR)
